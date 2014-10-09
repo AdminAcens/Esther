@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HandHeld 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-16 23:16+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Alexander Pfabel <kontakt@alexander.pfabel.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Bitte diese Seite nicht direkt laden. Danke! "
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Beitrag ist passwortgeschützt. Geben Sie das Passwort ein, um Kommentare zu lesen."
+
+#: ../comments.php:19
+msgid "Comments"
+msgstr "Kommentare"
+
+#: ../comments.php:23
+#: ../comments.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</ span> Ältere Kommentare"
+
+#: ../comments.php:24
+#: ../comments.php:37
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Kommentare <span class=\"meta-nav\">&rarr;</ span>"
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:61
+msgid "Submit Your Comment"
+msgstr "Kommentar senden"
+
+#: ../comments.php:61
+msgid "Leave a Comment"
+msgstr "Kommentieren"
+
+#: ../comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Antworten auf %s"
+
+#: ../header.php:45
+msgid "Menu"
+msgstr "Menü"
+
+#: ../header.php:54
+#: ../includes/breadcrumbs.php:4
+msgid "Home"
+msgstr "Startseite"
+
+#: ../header.php:66
+msgid "Search this site..."
+msgstr "Suchen..."
+
+#: ../home.php:29
+msgid "Recent Posts"
+msgstr "Neueste Beiträge"
+
+#: ../home.php:50
+#: ../includes/navigation.php:11
+msgid "Load More Posts"
+msgstr "Mehr Beiträge laden"
+
+#: ../home.php:59
+msgid "Recent Work"
+msgstr "Aktuelle Projekte"
+
+#: ../home.php:82
+msgid "View More Gallery Entries"
+msgstr "Mehr Gallerie-Einträge laden"
+
+#: ../loop-page.php:23
+#: ../loop-single.php:45
+msgid "Pages"
+msgstr "Seiten"
+
+#: ../loop-page.php:24
+#: ../loop-single.php:46
+msgid "Edit this page"
+msgstr "Seite bearbeiten"
+
+#: ../loop-single.php:33
+#: ../theme_functions.php:98
+msgid "Posted on"
+msgstr "Gepostet am"
+
+#: ../theme_functions.php:49
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Moderation."
+
+#: ../theme_functions.php:57
+#, php-format
+msgid "Posted on %1$s"
+msgstr "Gepostet am %1$s"
+
+#: ../theme_functions.php:59
+msgid "Reply"
+msgstr "Antworten"
+
+#: ../theme_functions.php:100
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: ../includes/breadcrumbs.php:7
+msgid "Posts Tagged "
+msgstr "Beitrag getagged"
+
+#: ../includes/breadcrumbs.php:9
+#: ../includes/breadcrumbs.php:11
+#: ../includes/breadcrumbs.php:13
+msgid "Posts made in"
+msgstr "Beitrag zugeordnet in"
+
+#: ../includes/breadcrumbs.php:15
+msgid "Search results for"
+msgstr "Suchergebnisse für"
+
+#: ../includes/breadcrumbs.php:30
+msgid "Posts by "
+msgstr "Gepostet von"
+
+#: ../includes/navigation.php:17
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ältere Einträge"
+
+#: ../includes/navigation.php:18
+msgid "Next Entries &raquo;"
+msgstr "Nächste Einträge &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Keine Ergebnisse gefunden"
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "Die von Ihnen angeforderte Seite konnte nicht gefunden werden. Verfeinern Sie Ihre Suche oder verwenden Sie die Navigation oben, um den gewünschten  Eintrag zu finden."
+

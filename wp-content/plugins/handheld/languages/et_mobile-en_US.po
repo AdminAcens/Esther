@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ET Mobile 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-16 02:17+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: handheld.php:102
+msgid "ET Mobile Plugin Options"
+msgstr ""
+
+#: handheld.php:102
+msgid "ET Mobile Plugin"
+msgstr ""
+
+#: handheld.php:119
+msgid "Settings"
+msgstr ""
+
+#: handheld.php:126
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: handheld.php:134
+msgid "General settings"
+msgstr ""
+
+#: handheld.php:138
+msgid "Main theme"
+msgstr ""
+
+#: handheld.php:142
+msgid "Child theme"
+msgstr ""
+
+#: handheld.php:143
+#, php-format
+msgid "If you want to customize the theme, create a <a href=\"%1$s\">child theme</a> in %2$s. Then you'll be able to select it."
+msgstr ""
+
+#: handheld.php:268
+msgid "Upload Image"
+msgstr ""
+
+#: handheld.php:303
+msgid "Settings saved."
+msgstr ""
+
+#: handheld.php:396
+msgid "Exit Mobile Mode"
+msgstr ""
+
+#: handheld.php:420
+msgid "Visit Mobile Version"
+msgstr ""
+
+#: handheld.php:426
+msgid "Handheld Menu"
+msgstr ""
+
+#: handheld.php:689
+msgid "Image doesn't exist"
+msgstr ""
+

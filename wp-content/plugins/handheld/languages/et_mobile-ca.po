@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ET Mobile 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-16 23:08+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Alexander Pfabel <kontakt@alexander.pfabel.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: handheld.php:102
+msgid "ET Mobile Plugin Options"
+msgstr "ET Opcions de l'Extensió Mòbil"
+
+#: handheld.php:102
+msgid "ET Mobile Plugin"
+msgstr "ET Extensió Mòbil"
+
+#: handheld.php:119
+msgid "Settings"
+msgstr "Configuracions"
+
+#: handheld.php:126
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tens permisos suficients per accedir a aquesta pàgina."
+
+#: handheld.php:134
+msgid "General settings"
+msgstr "Opcions Generals"
+
+#: handheld.php:138
+msgid "Main theme"
+msgstr "Tema principal"
+
+#: handheld.php:142
+msgid "Child theme"
+msgstr "Tema fill"
+
+#: handheld.php:143
+#, php-format
+msgid "If you want to customize the theme, create a <a href=\"%1$s\">child theme</a> in %2$s. Then you'll be able to select it."
+msgstr "Si voleu personalitzar el tema, creeu un tema <a href=\"%1$s\">child theme</a> en %2$s. A continuació podreu seleccionar-lo."
+
+#: handheld.php:268
+msgid "Upload Image"
+msgstr "Pujar Imatge"
+
+#: handheld.php:303
+msgid "Settings saved."
+msgstr "Configuració guardada."
+
+#: handheld.php:396
+msgid "Exit Mobile Mode"
+msgstr "Sorti del Mode Mòbil"
+
+#: handheld.php:419
+msgid "Visit Mobile Version"
+msgstr "Visitar Versió Mòbil"
+
+#: handheld.php:425
+msgid "Handheld Menu"
+msgstr "Menú de Handled"
+
+#: handheld.php:688
+msgid "Image doesn't exist"
+msgstr "La imatge no existeis."
+

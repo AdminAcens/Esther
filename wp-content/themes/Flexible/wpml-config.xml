@@ -1,0 +1,15 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">project</custom-type>
+    </custom-types>
+	<admin-texts>
+		<key name="et_flexible">
+			<key name="flexible_date_format" />
+			<key name="flexible_quote_heading" />
+			<key name="flexible_quote_text" />
+			<key name="flexible_seo_home_titletext" />
+			<key name="flexible_seo_home_descriptiontext" />
+			<key name="flexible_seo_home_keywordstext" />
+		</key>
+	</admin-texts>
+</wpml-config>

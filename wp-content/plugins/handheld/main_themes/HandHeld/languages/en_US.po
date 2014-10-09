@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HandHeld 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-15 14:20+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:19
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:23
+#: ../comments.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:24
+#: ../comments.php:37
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Submit Your Comment"
+msgstr ""
+
+#: ../comments.php:61
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../header.php:54
+msgid "Menu"
+msgstr ""
+
+#: ../header.php:63
+#: ../includes/breadcrumbs.php:4
+msgid "Home"
+msgstr ""
+
+#: ../header.php:75
+msgid "Search this site..."
+msgstr ""
+
+#: ../home.php:29
+msgid "Recent Posts"
+msgstr ""
+
+#: ../home.php:50
+#: ../includes/navigation.php:11
+msgid "Load More Posts"
+msgstr ""
+
+#: ../home.php:59
+msgid "Recent Work"
+msgstr ""
+
+#: ../home.php:82
+msgid "View More Gallery Entries"
+msgstr ""
+
+#: ../loop-page.php:23
+#: ../loop-single.php:45
+msgid "Pages"
+msgstr ""
+
+#: ../loop-page.php:24
+#: ../loop-single.php:46
+msgid "Edit this page"
+msgstr ""
+
+#: ../loop-single.php:33
+#: ../theme_functions.php:87
+msgid "Posted on"
+msgstr ""
+
+#: ../theme_functions.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../theme_functions.php:46
+#, php-format
+msgid "Posted on %1$s"
+msgstr ""
+
+#: ../theme_functions.php:48
+msgid "Reply"
+msgstr ""
+
+#: ../theme_functions.php:89
+msgid "Read more"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:7
+msgid "Posts Tagged "
+msgstr ""
+
+#: ../includes/breadcrumbs.php:9
+#: ../includes/breadcrumbs.php:11
+#: ../includes/breadcrumbs.php:13
+msgid "Posts made in"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:15
+msgid "Search results for"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:30
+msgid "Posts by "
+msgstr ""
+
+#: ../includes/navigation.php:17
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: ../includes/navigation.php:18
+msgid "Next Entries &raquo;"
+msgstr ""
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr ""
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr ""
+

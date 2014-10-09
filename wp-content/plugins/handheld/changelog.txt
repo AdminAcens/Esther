@@ -1,0 +1,16 @@
+version 1.3
+- Fixed image resizing on pages
+	* loop-page.php
+
+version 1.2
+
+- Added update notifications
+- Added iPad detection option
+- Added options for favicons and splash screen on iOS
+- Improved homepage ajax requests
+- Fixed 'draft posts', showing on ajax requests
+- Renamed theme_functions.php into functions.php
+- Added more translations
+- Fixed dropcap shortcode
+- Fixed localization issues
+- Now homepage gets loaded, even if you choose a static frontpage via WP-Admin / Settings / Reading
